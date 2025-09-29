@@ -2,7 +2,7 @@
 **Economist · Strategy & Research · Mixed-Methods**  
 
 I work at the intersection of **economics, data, and decision-making**.  
-My goal is to turn complex problems—whether in *public policy*, *financial markets*, or *emerging ventures* into clear, evidence-based insights.  
+My goal is to turn complex problems, whether in *public policy*, *financial markets*, or *emerging ventures* into clear, evidence-based insights.  
 From evaluating government labour programmes, to modelling pension reforms, to studying volatility in oil markets, I build research that is rigorous, practical, and usable by **policymakers, investors, and founders alike**.  
 
 ---
