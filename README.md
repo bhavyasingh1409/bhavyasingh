@@ -9,18 +9,20 @@ From evaluating government labour programmes, to modelling pension reforms, to s
 
 ## 📊 Featured Research Projects
 
+### [Oil Markets under a Second Trump Presidency](https://github.com/bhavyasingh1409/oil-markets-brent-wti/blob/main/README.md)  
+- Analysis of Brent & WTI crude oil prices (2015–2025) using event-based methods.  
+- Looked at price trends, the Brent–WTI spread, short-term volatility, and how oil reacts to financial market risk (VIX).  
+- **Findings:**  
+  - Trump’s first term saw very high volatility, including the 2020 oil price crash, showing that policy uncertainty can make markets less stable.  
+  - WTI prices respond more strongly to U.S. policy moves (tariffs, reserves, sanctions), while Brent remains the more stable global benchmark.  
+  - Oil markets move more closely with financial market risk during turbulent times, meaning a second Trump term could increase this connection.   
+- **Skills:** Energy Markets · Risk & Uncertainty · Event Studies · Volatility & Beta Modelling  
+
+---
 ### Pension Spending, Ageing, and Policy Choices (UK & Japan)  
 - Independent econometric decomposition of public pension spending (2000–2023) using OECD SOCX data.  
 - **Finding:** Demography is not destiny — deliberate policy choices can counterbalance ageing pressures.  
 - **Skills:** Economic Modelling · Time Series Analysis · Decomposition Methods · R Dashboards  
-
----
-
-### Oil Markets under a Second Trump Presidency  
-- Event-based datasets & analysis of Brent & WTI (2015–2025).  
-- Examined supply/demand shifts, volatility, Brent–WTI spreads, and links to VIX.  
-- **Finding:** Trump-era policies drive volatility premiums — WTI reacts more strongly, Brent remains stable.  
-- **Skills:** Energy Markets · Risk & Uncertainty · Event Studies · Volatility Modelling  
 
 ---
 
