@@ -19,7 +19,7 @@ From evaluating government labour programmes, to modelling pension reforms, to s
 - **Skills:** Energy Markets · Risk & Uncertainty · Event Studies · Volatility & Beta Modelling  
 
 ---
-### Pension Spending, Ageing, and Policy Choices (UK & Japan)  
+### [Pension Spending, Ageing, and Policy Choices (UK & Japan)](https://github.com/bhavyasingh1409/pension_analysis/blob/main/README.md)
 - Independent econometric decomposition of public pension spending (2000–2023) using OECD SOCX data.  
 - **Finding:** Demography is not destiny — deliberate policy choices can counterbalance ageing pressures.  
 - **Skills:** Economic Modelling · Time Series Analysis · Decomposition Methods · R Dashboards  
