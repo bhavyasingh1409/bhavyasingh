@@ -20,10 +20,9 @@ From evaluating government labour programmes, to modelling pension reforms, to s
 
 ---
 ### [Pension Spending, Ageing, and Policy Choices (UK & Japan)](https://github.com/bhavyasingh1409/pension_analysis/blob/main/README.md)
-- Independent econometric decomposition of public pension spending (2000–2023) using OECD SOCX data.  
-- **Finding:** Demography is not destiny — deliberate policy choices can counterbalance ageing pressures.  
-- **Skills:** Economic Modelling · Time Series Analysis · Decomposition Methods · R Dashboards  
-
+- Studied how much of the rise in public pension spending since 2000 can be explained by ageing (more retirees) compared to policy choices (like benefit levels and eligibility rules).  
+- **Finding:** Ageing matters, but it does not explain everything. Japan’s spending rose much faster than the UK’s, showing that governments can either amplify or limit the impact of demographics through their policies.  
+- **Skills:** Decomposition Analysis · Economic Modelling · Time Series Methods · Data Visualisation in R  
 ---
 
 ### MSc Dissertation: Evaluating JEEViKA’s Impact on Financial Inclusion in Bihar, India (LSE)  
